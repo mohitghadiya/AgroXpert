@@ -46,8 +46,6 @@ It uses **Machine Learning** for crop, fertilizer, and yield prediction, integra
 ---
 
 ## 📂 Project Structure
-
-
 AgroXpert/
 │── backend/
 │ ├── backend/
@@ -61,6 +59,7 @@ AgroXpert/
 │ ├── db.sqlite3 # Local SQLite DB (for development)
 │ ├── manage.py
 │
+│── env/ # Python virtual environment (ignored in GitHub)
 │
 │── frontend/
 │ ├── node_modules/
