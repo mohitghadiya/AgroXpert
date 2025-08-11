@@ -5,7 +5,8 @@
 ![React](https://img.shields.io/badge/React-18.2-blue?logo=react)
 ![MongoDB](https://img.shields.io/badge/MongoDB-6.0-green?logo=mongodb)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-RandomForest-orange?logo=scikit-learn)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+
 
 AgroXpert is an **AI-powered agriculture platform** connecting **Farmers**, **Labs**, and **Agronomists** in one ecosystem.  
 It uses **Machine Learning** for crop, fertilizer, and yield prediction, integrates **real-time weather data**, and provides tools for soil testing, plant disease detection, and expert consultations.
