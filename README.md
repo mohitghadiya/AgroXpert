@@ -39,7 +39,7 @@ It uses **Machine Learning** for crop, fertilizer, and yield prediction, integra
 **Backend:** Django REST Framework, MongoEngine  
 **Database:** MongoDB  
 **Authentication:** JWT  
-**Machine Learning:** scikit-learn, Pandas, NumPy  
+**Machine Learning:** scikit-learn, Pandas, NumPy, RandomForest Classifier
 **External APIs:**  
 - [PlantNet API](https://plantnet.org) – Plant disease detection  
 - Weather API – Real-time forecasts  
